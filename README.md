@@ -1,4 +1,5 @@
 Fundamentals of AI and ML project
+---
  🌿 Crop Disease Detector
 A machine learning project that detects diseases in crops using a Random Forest Classifier trained on leaf and environmental features. Built as a capstone project for the Fundamentals of AI and ML course.
 ---
