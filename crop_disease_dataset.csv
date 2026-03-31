@@ -1,0 +1,121 @@
+image_id,crop_type,leaf_color,spot_size,spot_color,yellowing,wilting,lesion_count,humidity,temperature,disease_label
+1,tomato,green,small,brown,no,no,2,65,28,Healthy
+2,tomato,yellow,medium,brown,yes,no,8,80,32,Early Blight
+3,tomato,pale_green,large,black,yes,yes,15,90,30,Late Blight
+4,tomato,green,small,brown,no,no,3,60,27,Early Blight
+5,tomato,yellow,medium,brown,yes,no,10,75,33,Early Blight
+6,tomato,green,none,none,no,no,0,55,25,Healthy
+7,tomato,pale_yellow,large,black,yes,yes,20,92,29,Late Blight
+8,tomato,green,none,none,no,no,0,58,26,Healthy
+9,tomato,brown,large,dark_brown,yes,yes,18,88,31,Late Blight
+10,tomato,green,small,yellow,no,no,1,62,28,Healthy
+11,corn,green,none,none,no,no,0,50,30,Healthy
+12,corn,yellow,small,tan,yes,no,5,72,34,Gray Leaf Spot
+13,corn,pale_green,medium,gray,yes,no,12,85,35,Gray Leaf Spot
+14,corn,green,none,none,no,no,0,48,29,Healthy
+15,corn,yellow,large,gray,yes,yes,16,88,36,Northern Corn Leaf Blight
+16,corn,green,small,tan,no,no,3,65,31,Gray Leaf Spot
+17,corn,pale_yellow,large,brown,yes,yes,19,90,35,Northern Corn Leaf Blight
+18,corn,green,none,none,no,no,0,52,28,Healthy
+19,corn,yellow,medium,gray,yes,no,9,78,33,Gray Leaf Spot
+20,corn,green,none,none,no,no,0,55,30,Healthy
+21,rice,green,none,none,no,no,0,75,28,Healthy
+22,rice,yellow,small,brown,yes,no,6,88,30,Rice Blast
+23,rice,pale_green,medium,brown,yes,no,11,92,31,Rice Blast
+24,rice,green,none,none,no,no,0,72,27,Healthy
+25,rice,yellow,large,dark_brown,yes,yes,17,95,32,Brown Spot
+26,rice,green,small,brown,no,no,2,80,29,Rice Blast
+27,rice,pale_yellow,large,brown,yes,yes,21,96,33,Brown Spot
+28,rice,green,none,none,no,no,0,70,26,Healthy
+29,rice,yellow,medium,dark_brown,yes,no,13,91,31,Brown Spot
+30,rice,green,none,none,no,no,0,74,28,Healthy
+31,wheat,green,none,none,no,no,0,55,22,Healthy
+32,wheat,yellow,small,orange,yes,no,4,68,25,Wheat Rust
+33,wheat,pale_green,medium,orange,yes,no,9,75,27,Wheat Rust
+34,wheat,green,none,none,no,no,0,52,21,Healthy
+35,wheat,yellow,large,orange,yes,yes,14,82,28,Wheat Rust
+36,wheat,green,small,brown,no,no,2,60,23,Powdery Mildew
+37,wheat,pale_yellow,medium,white,yes,no,10,70,26,Powdery Mildew
+38,wheat,green,none,none,no,no,0,50,22,Healthy
+39,wheat,yellow,large,white,yes,yes,18,78,29,Powdery Mildew
+40,wheat,green,none,none,no,no,0,54,23,Healthy
+41,potato,green,none,none,no,no,0,60,22,Healthy
+42,potato,yellow,small,brown,yes,no,5,78,24,Early Blight
+43,potato,pale_green,medium,brown,yes,no,10,85,26,Early Blight
+44,potato,green,none,none,no,no,0,58,21,Healthy
+45,potato,yellow,large,black,yes,yes,16,92,25,Late Blight
+46,potato,green,small,brown,no,no,3,72,23,Early Blight
+47,potato,pale_yellow,large,black,yes,yes,20,94,27,Late Blight
+48,potato,green,none,none,no,no,0,56,22,Healthy
+49,potato,brown,large,dark_brown,yes,yes,22,95,26,Late Blight
+50,potato,green,none,none,no,no,0,60,23,Healthy
+51,tomato,green,small,brown,no,no,1,63,27,Early Blight
+52,tomato,yellow,medium,brown,yes,no,9,82,31,Early Blight
+53,tomato,green,none,none,no,no,0,57,26,Healthy
+54,tomato,pale_yellow,large,black,yes,yes,19,91,30,Late Blight
+55,corn,yellow,small,tan,yes,no,6,70,32,Gray Leaf Spot
+56,corn,green,none,none,no,no,0,50,29,Healthy
+57,corn,pale_yellow,large,brown,yes,yes,18,89,34,Northern Corn Leaf Blight
+58,rice,yellow,small,brown,yes,no,7,87,30,Rice Blast
+59,rice,green,none,none,no,no,0,73,27,Healthy
+60,rice,pale_yellow,large,brown,yes,yes,22,97,33,Brown Spot
+61,wheat,yellow,small,orange,yes,no,5,69,26,Wheat Rust
+62,wheat,green,none,none,no,no,0,53,22,Healthy
+63,wheat,pale_green,medium,white,yes,no,11,73,27,Powdery Mildew
+64,potato,yellow,small,brown,yes,no,4,76,23,Early Blight
+65,potato,green,none,none,no,no,0,59,21,Healthy
+66,potato,pale_yellow,large,black,yes,yes,21,93,26,Late Blight
+67,tomato,green,none,none,no,no,0,56,25,Healthy
+68,tomato,yellow,medium,brown,yes,no,11,83,32,Early Blight
+69,tomato,pale_green,large,black,yes,yes,17,91,30,Late Blight
+70,corn,green,none,none,no,no,0,49,28,Healthy
+71,corn,yellow,medium,gray,yes,no,10,79,34,Gray Leaf Spot
+72,rice,green,none,none,no,no,0,71,27,Healthy
+73,rice,yellow,large,dark_brown,yes,yes,18,96,32,Brown Spot
+74,wheat,yellow,medium,orange,yes,no,8,74,27,Wheat Rust
+75,wheat,green,none,none,no,no,0,51,21,Healthy
+76,potato,pale_green,medium,brown,yes,no,9,84,25,Early Blight
+77,potato,green,none,none,no,no,0,57,22,Healthy
+78,tomato,green,small,brown,no,no,2,64,28,Early Blight
+79,rice,pale_green,medium,brown,yes,no,12,93,31,Rice Blast
+80,corn,green,none,none,no,no,0,53,30,Healthy
+81,wheat,pale_yellow,large,white,yes,yes,19,79,29,Powdery Mildew
+82,potato,pale_yellow,large,black,yes,yes,23,94,27,Late Blight
+83,tomato,green,none,none,no,no,0,59,26,Healthy
+84,corn,yellow,large,gray,yes,yes,17,87,36,Northern Corn Leaf Blight
+85,rice,yellow,small,brown,yes,no,8,89,30,Rice Blast
+86,wheat,yellow,small,orange,yes,no,3,67,25,Wheat Rust
+87,potato,green,none,none,no,no,0,60,22,Healthy
+88,tomato,pale_yellow,large,black,yes,yes,21,93,29,Late Blight
+89,corn,green,small,tan,no,no,4,66,32,Gray Leaf Spot
+90,rice,green,none,none,no,no,0,74,27,Healthy
+91,wheat,pale_green,small,white,no,no,3,62,24,Powdery Mildew
+92,potato,yellow,medium,brown,yes,no,7,80,24,Early Blight
+93,tomato,green,none,none,no,no,0,58,25,Healthy
+94,corn,pale_yellow,medium,gray,yes,no,11,83,35,Gray Leaf Spot
+95,rice,yellow,medium,dark_brown,yes,no,14,92,32,Brown Spot
+96,wheat,green,none,none,no,no,0,54,22,Healthy
+97,potato,green,none,none,no,no,0,58,21,Healthy
+98,tomato,yellow,small,brown,yes,no,5,77,30,Early Blight
+99,corn,green,none,none,no,no,0,51,29,Healthy
+100,rice,pale_green,large,brown,yes,yes,20,95,33,Rice Blast
+101,tomato,green,none,none,no,no,0,57,25,Healthy
+102,potato,brown,large,dark_brown,yes,yes,24,96,28,Late Blight
+103,corn,yellow,small,tan,yes,no,4,71,33,Gray Leaf Spot
+104,wheat,yellow,large,orange,yes,yes,15,81,28,Wheat Rust
+105,rice,green,none,none,no,no,0,72,27,Healthy
+106,tomato,pale_green,medium,brown,yes,no,9,81,31,Early Blight
+107,corn,green,none,none,no,no,0,52,29,Healthy
+108,potato,pale_green,medium,brown,yes,no,8,83,24,Early Blight
+109,wheat,green,none,none,no,no,0,53,22,Healthy
+110,rice,yellow,large,dark_brown,yes,yes,19,97,33,Brown Spot
+111,tomato,green,none,none,no,no,0,60,26,Healthy
+112,corn,pale_green,large,brown,yes,yes,20,90,36,Northern Corn Leaf Blight
+113,rice,yellow,small,brown,yes,no,6,86,30,Rice Blast
+114,wheat,pale_green,medium,white,yes,no,8,71,26,Powdery Mildew
+115,potato,green,none,none,no,no,0,59,22,Healthy
+116,tomato,yellow,large,black,yes,yes,18,90,30,Late Blight
+117,corn,green,none,none,no,no,0,50,28,Healthy
+118,rice,green,none,none,no,no,0,73,27,Healthy
+119,wheat,yellow,medium,orange,yes,no,7,73,26,Wheat Rust
+120,potato,yellow,large,black,yes,yes,17,93,26,Late Blight
